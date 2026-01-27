@@ -1,9 +1,11 @@
+import "./Home.css"
 import { Grids } from "./components/Grids"
 
 export const Home = () => {
   return (
-    <main className="bg-black h-512.5">
-        <div className="text-white  flex justify-center">
+    <main className="bg-black h-512.5 relative z-10">
+    <div className="gradient absolute bottom-0 -top-150 left-0 w-full h-1/3 bg-linear-to-t from-[#ebebeb] to-transparent pointer-events-none"></div>
+        <div className="text-white mt-3 flex justify-center">
             <Grids/>
         </div>
         <div className="flex mt-5 bg-[#22B573] h-101.5 items-center justify-center">

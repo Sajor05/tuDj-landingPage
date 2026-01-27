@@ -1,0 +1,9 @@
+.gradient {
+  background: linear-gradient(180deg, transparent, #000000);
+  bottom: 0;
+  height: 30%;
+  left: 0;
+  position: absolute;
+  width: 100%;
+  z-index: 3;
+}

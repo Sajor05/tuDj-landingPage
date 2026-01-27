@@ -3,10 +3,8 @@
     height: 652px;
     border-style: none;
     border-color: transparent;
-    background: #7F7F7F url(https://www.tudj.com.ar/images/introdj.jpg) no-repeat center center;
+    background: #7F7F7F url(https://www.tudj.com.ar/images/introdj.jpg);
     background-size: cover;
-}
-
-.logo-container{
-    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
 }
