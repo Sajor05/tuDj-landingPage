@@ -1,0 +1,12 @@
+.headerBackground{
+    z-index: 2;
+    height: 652px;
+    border-style: none;
+    border-color: transparent;
+    background: #7F7F7F url(https://www.tudj.com.ar/images/introdj.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.logo-container{
+    align-items: center;
+}
