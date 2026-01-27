@@ -1,8 +1,8 @@
 import './App.css'
-import { Home } from './home/home'
-import { Header } from './components/header/Header'
-import { Footer } from './components/footer/Footer'
-import { FabButton } from './components/fabButton/FabButton'
+import { Home } from './home/Home.jsx'
+import { Header } from './components/header/Header.jsx'
+import { Footer } from './components/footer/Footer.jsx'
+import { FabButton } from './components/fabButton/FabButton.jsx'
 
 function App() {
   return (
