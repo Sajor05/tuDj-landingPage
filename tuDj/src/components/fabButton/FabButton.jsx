@@ -72,7 +72,7 @@ export const FabButton = () => {
           </div>
         </a>*/}
 
-        <a className="flex items-center gap-2 group pl-9">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=damian.eventos@gmail.com" target="_blank" className="flex items-center gap-2 group pl-9">
           <span className="bg-white text-gray-800 py-1 rounded shadow-md text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
             Correo
           </span>
