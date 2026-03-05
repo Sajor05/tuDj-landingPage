@@ -63,14 +63,14 @@ export const FabButton = () => {
           </div>
         </a>
 
-        <a href="#" className="flex items-center gap-2 group">
+        {/*<a href="#" className="flex items-center gap-2 group">
           <span className="bg-white text-gray-800 ml-6 px-2 py-1 rounded shadow-md text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">
             Tiktok
           </span>
           <div className="w-16 h-16 bg-black border border-white rounded-full flex items-center justify-center text-white shadow-lg hover:scale-110 transition-transform cursor-pointer">
             <AiFillTikTok size={36} />
           </div>
-        </a>
+        </a>*/}
 
         <a className="flex items-center gap-2 group pl-9">
           <span className="bg-white text-gray-800 py-1 rounded shadow-md text-sm font-semibold opacity-0 group-hover:opacity-100 transition-opacity">

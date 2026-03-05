@@ -71,7 +71,6 @@ const DjsGrid = () => {
           </span>
         </div>
       </div>
-      {/* Al ser 3 elementos en una grilla de 2, forzamos a que el tercero ocupe 2 columnas en móvil y 1 en PC */}
       <div className=" bg-[#D4145A] items-center flex justify-center cursor-pointer h-40 lg:h-auto py-2 lg:py-0 col-span-2 lg:col-span-1">
         <img
           src="https://www.tudj.com.ar/images/djsoledaad.png"

@@ -5,7 +5,7 @@ export const Home = () => {
   return (
     <main className="bg-black h-670 lg:h-512.5 relative z-10">
       <div className="gradient absolute bottom-0 -top-150 left-0 w-full h-1/3 bg-linear-to-t from-[#ebebeb] to-transparent pointer-events-none"></div>
-      <div className="text-white mt-3 flex justify-center">
+      <div className="text-white mt-3 flex justify-center relative z-20">
         <Grids />
       </div>
       <SonidoProfesional />
